@@ -50,7 +50,7 @@ The kind that move things forward (or make us pause).
 > <i>Not to explain it, but to keep it alive.</i>
 
 </br></br>
-Thanks for being here.
+Thanks for being here.</br>
 Let’s see where this goes.
 
 
