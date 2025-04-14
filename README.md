@@ -22,7 +22,10 @@ To explore the project:
 - `creative-realities/` — how projects take shape  
 - `design-prompts/` — questions to open up design space
 </br></br>
-[ Subscribe on Substack - https://iamenearossi.substack.com/ ]
+
+## This project lives in two places:  
+– [On GitHub](https://github.com/iamenearossi/paperwork) — as a versioned, open archive  
+– [On Substack](https://iamenearossi.substack.com) — for curated reading and updates
 </br></br>
 
 
