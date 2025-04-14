@@ -1,7 +1,6 @@
 # Paperwork
 
-A documentation project by Enea Rossi / Adoratorio
-
+A documentation project by Enea Rossi / Adoratorio© Studio
 Paperwork is a public archive of how we think, organize, and evolve as a studio.
 
 ## Structure
