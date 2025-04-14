@@ -1,13 +1,23 @@
 # Paperwork #0 – Welcome
+*A founder’s way of making sense of what doesn’t get seen.*
 
 Some things don’t end up in a portfolio.  
 But they hold everything together.
 
 That’s where **Paperwork** begins.  
-A project born from the need to slow down, observe, and share what usually stays in the background.
+A persoanl project born from the need to slow down, observe, and share what usually stays in the background.
 
-It’s a space for documenting thoughts, questions, and choices —  
-not as a showcase, but as a form of clarity.
+I’m Enea Rossi — CEO/ Co-Founder at Adoratorio® Studio.  
+And over time, I’ve realized that some of the most important things we do  
+aren’t things we show. They’re choices, tensions, patterns.  
+They’re *how we work*.
+
+---
+
+**Paperwork** where I write those things down.
+It’s a space for documenting thoughts, questions, and choices. Not as a showcase, but as a form of clarity.
+
+This space lives in two places:
 
 This space lives in two places:  
 **On Substack**, for reading.  
@@ -35,5 +45,13 @@ The kind that move things forward (or make us pause).
 
 ---
 
-> Paperwork is where design gets written.  
-> Not to explain it — but to keep it alive.
+> <b>This is not a newsletter.</b> </br>
+> <i>Paperwork is where design gets written.</i> </br>
+> <i>Not to explain it, but to keep it alive.</i>
+
+</br></br>
+Thanks for being here.
+Let’s see where this goes.
+
+
+— Enea
