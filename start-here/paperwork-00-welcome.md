@@ -1,4 +1,4 @@
-# Paperwork #00 – Welcome
+# Paperwork #0 – Welcome
 *A founder’s way of making sense of what doesn’t get seen.*
 
 Some things don’t end up in a portfolio.  
