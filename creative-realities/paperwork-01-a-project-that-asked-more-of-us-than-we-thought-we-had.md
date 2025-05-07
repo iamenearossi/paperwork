@@ -10,6 +10,9 @@ We started working on The Blue Desert in 2024, and it launched in early 2025. At
 
 But it didn’t go that way.
 
+![Paperwork #01 - A project that asked more of us than we thought we had.](https://raw.githubusercontent.com/iamenearossi/paperwork/refs/heads/main/creative-realities/assets/img/paperwotk_01.jpg)
+
+
 Very quickly, we realized that everyone was working inside the same perimeter but not on the same thing. Design was moving in one direction, 3D in another, development was trying to bridge the two. 
 
 **We were all working on the same project. But not the same version of it.**
