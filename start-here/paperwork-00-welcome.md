@@ -12,7 +12,7 @@ And over time, I’ve realized that some of the most important things we do
 aren’t things we show. They’re choices, tensions, patterns.  
 They’re *how we work*.
 
----
+![Paperwork #0 - Welcome ](https://raw.githubusercontent.com/iamenearossi/paperwork/refs/heads/main/start-here/assets/img/paperwotk_00.jpg)
 
 **Paperwork** where I write those things down.
 It’s a space for documenting thoughts, questions, and choices. Not as a showcase, but as a form of clarity.
