@@ -14,8 +14,7 @@ They’re *how we work*.
 
 </br>
 
-![Paperwork #0 - Welcome ](https://raw.githubusercontent.com/iamenearossi/paperwork/refs/heads/main/start-here/assets/img/paperwotk_00.jpg)
-
+<img src="https://raw.githubusercontent.com/iamenearossi/paperwork/refs/heads/main/start-here/assets/img/paperwotk_00.jpg" alt="Paperwork #00 - Welcome" title="Paperwork #00 - Welcome" width=100%>
 </br>
 
 **Paperwork** where I write those things down.
