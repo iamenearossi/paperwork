@@ -12,7 +12,7 @@ But it didn’t go that way.
 
 </br>
 
-![Paperwork #01 - A project that asked more of us than we thought we had.](https://raw.githubusercontent.com/iamenearossi/paperwork/refs/heads/main/creative-realities/assets/img/paperwotk_01.jpg)
+<img src="https://raw.githubusercontent.com/iamenearossi/paperwork/refs/heads/main/creative-realities/assets/img/paperwotk_01.jpg" alt="Paperwork #01 - A project that asked more of us than we thought we had." title="Paperwork #01 - A project that asked more of us than we thought we had" width=100%>
 
 </br>
 
