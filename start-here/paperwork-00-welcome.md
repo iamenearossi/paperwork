@@ -12,7 +12,11 @@ And over time, I’ve realized that some of the most important things we do
 aren’t things we show. They’re choices, tensions, patterns.  
 They’re *how we work*.
 
+</br>
+
 ![Paperwork #0 - Welcome ](https://raw.githubusercontent.com/iamenearossi/paperwork/refs/heads/main/start-here/assets/img/paperwotk_00.jpg)
+
+</br>
 
 **Paperwork** where I write those things down.
 It’s a space for documenting thoughts, questions, and choices. Not as a showcase, but as a form of clarity.
@@ -27,7 +31,7 @@ It’s not a blog.
 It’s not a newsletter.  
 It’s a way to make sense of how we work, and why.
 
----
+</br>
 
 ### Three formats:
 
@@ -43,13 +47,16 @@ Not what we made — but what shaped it.
 Open questions, quiet sparks.  
 The kind that move things forward (or make us pause).
 
----
+</br>
+</br>
+</br>
 
 > <b>This is not a newsletter.</b> </br>
 > <i>Paperwork is where design gets written.</i> </br>
 > <i>Not to explain it, but to keep it alive.</i>
 
-</br></br>
+</br>
+
 Thanks for being here.</br>
 Let’s see where this goes.
 
