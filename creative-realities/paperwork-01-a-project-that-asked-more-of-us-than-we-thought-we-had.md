@@ -10,8 +10,11 @@ We started working on The Blue Desert in 2024, and it launched in early 2025. At
 
 But it didn’t go that way.
 
+</br>
+
 ![Paperwork #01 - A project that asked more of us than we thought we had.](https://raw.githubusercontent.com/iamenearossi/paperwork/refs/heads/main/creative-realities/assets/img/paperwotk_01.jpg)
 
+</br>
 
 Very quickly, we realized that everyone was working inside the same perimeter but not on the same thing. Design was moving in one direction, 3D in another, development was trying to bridge the two. 
 
@@ -21,7 +24,8 @@ It wasn’t about lack of clarity or commitment. It was about how we each imagin
 
 At some point, it became clear: we weren’t building a site. We were shaping a mood. And doing that together, without losing consistency, was more complicated than we thought.
 
----
+</br>
+</br>
 
 ## Coordinating doesn’t mean understanding
 
@@ -37,7 +41,8 @@ We eventually understood that this wasn’t a linear process. We couldn’t trea
 
 The challenges were both technical and relational. There were architectural decisions to make, performance issues to solve, and visual layers that didn’t always play well together. But what made it hard wasn’t just the complexity, it was learning how to move forward without always being aligned. Knowing when to step in, when to listen, when to adjust. That’s what held the project together.
 
----
+</br>
+</br>
 
 ## Code as part of the form
 
@@ -49,7 +54,8 @@ Scene by scene, we had to decide how to keep the experience coherent. And it was
 
 The result is smooth, almost minimal. But behind that, there were dozens of trade-offs, moments where we had to say no, simplify, rework. The real work wasn’t making it work. It was keeping it consistent.
 
----
+</br>
+</br>
 
 ## The gesture that made sense
 
@@ -63,7 +69,8 @@ Each surface required small corrections. It was less efficient, but it gave us c
 
 That same logic came back later, in the sound design.
 
----
+</br>
+</br>
 
 ## AI in the room, not at the table
 
@@ -73,7 +80,8 @@ So we used AI. Not to generate something final, but to explore directions quickl
 
 The AI didn’t replace anything. It extended our range for a bit, and then we went back to doing the thing by hand.
 
----
+</br>
+</br>
 
 ## From the studio. From me.
 
@@ -89,11 +97,14 @@ It forced us to have harder conversations. It exposed a few things we needed to 
 
 The Blue Desert has been our most complex project so far. Not just in scale, but in how many things had to work together and stay consistent. It challenged how we collaborate, and in doing so, it changed how we work.
 
----
+</br>
 
 If you’re curious to read more about the project, there are two new interviews out: one on [Communication Arts](https://www.commarts.com/webpicks/the-blue-desert) and one on Awwwards (coming soon). And the full experience is live at [thebluedesert.com](https://thebluedesert.com).
 
----
+</br>
+</br>
+</br>
+</br>
 
 > <b>This is not a newsletter.</b> </br>
 > <i>Paperwork is where design gets written.</i> </br>
