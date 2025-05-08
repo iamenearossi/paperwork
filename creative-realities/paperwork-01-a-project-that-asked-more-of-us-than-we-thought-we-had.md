@@ -110,7 +110,8 @@ If you’re curious to read more about the project, there are two new interviews
 > <i>Paperwork is where design gets written.</i> </br>
 > <i>Not to explain it, but to keep it alive.</i>
 
-</br></br>
+</br>
+
 Thanks for being here.</br>
 Let’s see where this goes.
 
