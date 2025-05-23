@@ -62,12 +62,17 @@ This isn’t about declaring a position.
 It’s just a way of working that’s shaped who we are.  
 And maybe now it’s worth sharing.
 
+</br>
+
 ## 
+</br>
+
 > <b>This is not a newsletter.</b> </br>
 > <i>Paperwork is where design gets written.</i> </br>
 > <i>Not to explain it, but to keep it alive.</i>
 
-</br></br>
+</br>
+
 Thanks for being here.</br>
 Let’s see where this goes.
 
