@@ -3,12 +3,12 @@
 A reflection on how we work at Adoratorio® Studio, and why certain ways of doing things are finally becoming visible.
 
 <pre>
-<b>us:</b>cpronunciation: "/ʌs/"
+<b>us:</b> [pronunciation "/ʌs/"]
   <b>pronoun</b>
     - the people involved in something shared
     - used to refer to ourselves
 
-<b>as:</b> pronunciation: "us"
+<b>as:</b> [pronunciation: "us"]
   <b>abbreviation</b>
     - Adoratorio® Studio
     - a way of doing things, together
