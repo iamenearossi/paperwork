@@ -25,7 +25,6 @@ It wasn’t about lack of clarity or commitment. It was about how we each imagin
 At some point, it became clear: we weren’t building a site. We were shaping a mood. And doing that together, without losing consistency, was more complicated than we thought.
 
 </br>
-</br>
 
 ## Coordinating doesn’t mean understanding
 
@@ -42,7 +41,6 @@ We eventually understood that this wasn’t a linear process. We couldn’t trea
 The challenges were both technical and relational. There were architectural decisions to make, performance issues to solve, and visual layers that didn’t always play well together. But what made it hard wasn’t just the complexity, it was learning how to move forward without always being aligned. Knowing when to step in, when to listen, when to adjust. That’s what held the project together.
 
 </br>
-</br>
 
 ## Code as part of the form
 
@@ -54,7 +52,6 @@ Scene by scene, we had to decide how to keep the experience coherent. And it was
 
 The result is smooth, almost minimal. But behind that, there were dozens of trade-offs, moments where we had to say no, simplify, rework. The real work wasn’t making it work. It was keeping it consistent.
 
-</br>
 </br>
 
 ## The gesture that made sense
@@ -70,7 +67,6 @@ Each surface required small corrections. It was less efficient, but it gave us c
 That same logic came back later, in the sound design.
 
 </br>
-</br>
 
 ## AI in the room, not at the table
 
@@ -80,7 +76,6 @@ So we used AI. Not to generate something final, but to explore directions quickl
 
 The AI didn’t replace anything. It extended our range for a bit, and then we went back to doing the thing by hand.
 
-</br>
 </br>
 
 ## From the studio. From me.
