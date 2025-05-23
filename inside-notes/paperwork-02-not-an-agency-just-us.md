@@ -3,24 +3,18 @@
 A reflection on how we work at Adoratorio® Studio, and why certain ways of doing things are finally becoming visible.
 
 <pre>
-```yaml
-us:
-  pronunciation: "/ʌs/"
-  type: pronoun
-  meaning:
+<b>us:</b>cpronunciation: "/ʌs/"
+  <b>pronoun</b>
     - the people involved in something shared
     - used to refer to ourselves
 
-as:
-  pronunciation: "us"
-  type: abbreviation
-  meaning:
+<b>as:</b> pronunciation: "us"
+  <b>abbreviation</b>
     - Adoratorio® Studio
     - a way of doing things, together
-```
 </pre>
 
----
+</br>
 
 ## Creative work is shifting
 
@@ -42,8 +36,8 @@ That kind of process doesn’t scale easily. **It requires attention, presence, 
 
 It’s not a playbook. It’s a posture. A way of working that holds space for change and tries to give it form, without forcing it.
 
-
----
+</br>
+</br>
 
 ## Led by design
 
@@ -62,11 +56,16 @@ I came across a quote by Roos Chant a while ago:
 It stayed with us. Still does.  
 (And yes, we wear black T-shirts. But only because they look good.)
 
+</br>
+
 This isn’t about declaring a position.  
 It’s just a way of working that’s shaped who we are.  
 And maybe now it’s worth sharing.
 
----
+</br>
+</br>
+</br>
+</br>
 
 > <b>This is not a newsletter.</b> </br>
 > <i>Paperwork is where design gets written.</i> </br>
