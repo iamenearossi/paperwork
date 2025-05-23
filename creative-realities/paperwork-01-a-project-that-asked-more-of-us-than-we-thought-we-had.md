@@ -102,8 +102,8 @@ The Blue Desert has been our most complex project so far. Not just in scale, but
 If you’re curious to read more about the project, there are two new interviews out: one on [Communication Arts](https://www.commarts.com/webpicks/the-blue-desert) and one on Awwwards (coming soon). And the full experience is live at [thebluedesert.com](https://thebluedesert.com).
 
 </br>
-</br>
-</br>
+
+## 
 </br>
 
 > <b>This is not a newsletter.</b> </br>
