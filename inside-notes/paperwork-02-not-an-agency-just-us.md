@@ -37,7 +37,6 @@ That kind of process doesn’t scale easily. **It requires attention, presence, 
 It’s not a playbook. It’s a posture. A way of working that holds space for change and tries to give it form, without forcing it.
 
 </br>
-</br>
 
 ## Led by design
 
