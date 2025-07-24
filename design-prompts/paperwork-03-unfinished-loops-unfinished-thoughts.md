@@ -6,11 +6,15 @@ What if the real prompt isn’t what you write but how it changes you in return?
 
 At Adoratorio® Studio, we dedicate a significant part of our time to research and development. To progress, to experiment, to understand. Not just to keep up, but to go deeper. To explore how tools, methods, and perspectives can stretch the way we think and design.
 
-A couple of years ago, one of those explorations became a project called Dying Life. It started as an experiment: we worked with Midjourney to generate and refine hundreds of pixelated flowers, then asked AI to restore each image as if every pixel were a small, living cell. Except that at every step, we removed something: one missing pixel, one small death, and observed what the machine would do with it.
+A couple of years ago, one of those explorations became a project called *Dying Life*. It started as an experiment: we worked with Midjourney to generate and refine hundreds of pixelated flowers, then asked AI to restore each image as if every pixel were a small, living cell. Except that at every step, we removed something: one missing pixel, one small death, and observed what the machine would do with it.
 
 But AI doesn’t understand death. It sees absence as an error. So it kept filling the gaps. Every time a pixel vanished, the system tried to regenerate it. Not with memory. Not with mourning. But by borrowing another fragment from another flower. The result was a blooming loop of patches and guesses, endlessly trying to fix what it could never truly comprehend.
 
 That’s when I started thinking: maybe this is exactly what we do, or what we try to avoid doing, when we design. **We’re constantly choosing what to preserve, what to discard, and how much we’re willing to be changed in the process.**
+
+</br>
+
+> If you’re curious to see Dying Life, we’ve shared it on our website — there’s a dedicated [page here](https://adoratorio.studio/dying-life).
 
 </br>
 
