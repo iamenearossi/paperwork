@@ -1,6 +1,7 @@
 # Paperwork #03 – (Un)finished Loops, (Un)finished Thoughts
 
-What if the real prompt isn’t what you write but how it changes you in return? A story about tools, teams, and the subtle loops that shape us.
+What if the real prompt isn’t what you write but how it changes you in return?</br>
+A story about tools, teams, and the subtle loops that shape us.
 
 ## A Space for what doesn’t yet exist
 
