@@ -14,7 +14,7 @@ That’s when I started thinking: maybe this is exactly what we do, or what we t
 
 </br>
 
-<img src="https://raw.githubusercontent.com/iamenearossi/paperwork/refs/heads/main/creative-realities/assets/img/paperwork-03-unfinished-loops-unfinished-thoughts" alt="Paperwork #03 - (Un)finished Loops, (Un)finished Thoughts" title="Paperwork #01 – (Un)finished Loops, (Un)finished Thoughts" width=100%>
+<img src="https://raw.githubusercontent.com/iamenearossi/paperwork/refs/heads/main/design-prompts/assets/img/paperwork_03" alt="Paperwork #03 - (Un)finished Loops, (Un)finished Thoughts" title="Paperwork #01 – (Un)finished Loops, (Un)finished Thoughts" width=100%>
 
 </br>
 
