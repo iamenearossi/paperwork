@@ -8,7 +8,7 @@ That’s where **Paperwork** begins.
 A persoanl project born from the need to slow down, observe, and share what usually stays in the background.
 
 I’m Enea Rossi — CEO/ Co-Founder and Creative Partner at Adoratorio® Studio.  
-And over time, I’ve realized that some of the most important things we do aren’t things we show. They’re choices, tensions, patterns.  
+And over time, I’ve realized that some of the most important things aren’t things I show. They’re choices, tensions, patterns.
 They’re *how we work*.
 
 </br>
