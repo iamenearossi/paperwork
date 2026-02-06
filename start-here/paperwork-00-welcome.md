@@ -7,7 +7,7 @@ But they hold everything together.
 That’s where **Paperwork** begins.  
 A persoanl project born from the need to slow down, observe, and share what usually stays in the background.
 
-I’m Enea Rossi — CEO/ Co-Founder and Creative Partner at Adoratorio® Studio.  
+I’m Enea Rossi, CEO/ Co-Founder and Creative Partner at Adoratorio® Studio.  
 And over time, I’ve realized that some of the most important things aren’t things I show. They’re choices, tensions, patterns.
 They’re *how we work*.
 
@@ -35,15 +35,15 @@ It’s a way to make sense of how we work, and why.
 
 **Inside Notes**  
 Observations from the studio.  
-Personal thoughts, shared moments, and team voices (*Shared Thoughts*).
+Personal thoughts and shared moments.
 
 **Creative Realities**  
 Stories behind the work.  
-Not what we made — but what shaped it.
+Not what we made, but what shaped it.
 
 **Design Prompts**  
 Open questions, quiet sparks.  
-The kind that move things forward (or make us pause).
+The kind that move things forward (or make a pause).
 
 </br>
 </br>
