@@ -111,7 +111,7 @@ This isn’t about nostalgia for how things used to be. It’s about understandi
 
 Some of this work doesn’t need more thinking. It needs space, and rituals, and the willingness to keep adjusting even when it feels like you’ve already adjusted enough.
 
-And that’s where the studio is now. Still changing, still adjusting, but more aware that **continuity is not something you inherit. It’s something you actively take care of.**
+**Continuity is not something you inherit. It’s something you actively take care of.**
 
 </br>
 
