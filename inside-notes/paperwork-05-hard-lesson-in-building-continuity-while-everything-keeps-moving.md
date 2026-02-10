@@ -87,9 +87,9 @@ For what keeps shaping the work even when no one is actively looking at it.
 
 ## Building places for memory
 
-Some are working. Some are still being tested. Everything moved to Notion: a dashboard system that handles daily work (projects, tasks) but also what happens behind the scenes (CRM, finance, marketing). Everything lives in one place now.
+Some are working. Some are still being tested. Everything moved to Notion: a dashboard system that handles daily work (projects, tasks) but also what happens behind the scenes (CRM, finance, marketing). Everything lives in one place.
 
-Slack got reorganized with a more granular channel structure. Slack Canvas now holds project overviews: brief, timeline, milestones, delivery, team, notes. Context doesn’t evaporate when a call ends because it’s already documented there.
+Slack got reorganized with a more granular channel structure. Slack Canvas holds project overviews: brief, timeline, milestones, delivery, team, notes. Context doesn’t evaporate when a call ends because it’s already documented there.
 
 AI agents handle meeting notes and summaries, so decisions get captured even when attention is split.
 
