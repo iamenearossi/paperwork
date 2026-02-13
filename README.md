@@ -24,7 +24,7 @@ To explore the project:
 
 ## This project lives in two places:  
 – [On GitHub](https://github.com/iamenearossi/paperwork) — as a versioned, open archive  
-– [On Substack](https://iamenearossi.substack.com) — for curated reading and updates
+– [On Substack](https://paperwork.substack.com/) — for curated reading and updates
 </br></br>
 
 
