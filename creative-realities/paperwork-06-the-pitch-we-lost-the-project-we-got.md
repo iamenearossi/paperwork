@@ -2,6 +2,8 @@
 
 *The second chapter in Creative Realities, a series that doesn’t show what we made with Adoratorio® Studio, but what we went through to make it.*
 
+</br>
+
 We came second on a pitch for Miu Miu. The brief was a digital experience tied to ██████████ from the collection, with a campaign inspired by ██████████. We liked it. We went deep. The visual language, the interaction logic, the tone.
 
 *(The project is still unreleased. When it launches, I’ll update this piece.)*
