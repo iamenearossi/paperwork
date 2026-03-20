@@ -43,6 +43,8 @@ That pressure didn’t weaken the work. It stripped it. I keep getting asked how
 
 Systems help. But systems don’t stay up until midnight because they believe in what they’re building. **That part is human. And it’s the part I’m most grateful for.**
 
+</br>
+
 ## Inside prada.com
 
 The experience lives on prada.com. Not a subdomain. Not a microsite. A hero on the homepage pointing straight to it. Inside the collection pages, across every country. Products right below.
@@ -57,6 +59,8 @@ The first time I saw the experience running inside prada.com in test, the offici
 
 **You’re not designing something worth looking at. You’re designing something that deserves to exist inside someone else’s house.**
 
+</br>
+
 ## Then it goes live. Then it goes away.
 
 Prada ran a teaser for two, three days. A signal. Then a global launch. All markets, social, the full machinery of the brand behind it.
@@ -66,6 +70,8 @@ The moment we went live, an email arrived from Prada. The Slack channel lit up: 
 And still. It’s temporary.
 
 The experience is live as I write this. It won’t be forever. From the start, the condition was clear: this was designed to coincide with a moment, not to become part of the architecture. When the moment passes, the experience withdraws. The pages return to what they were. No trace.
+
+</br>
 
 ## What you put in is all it will ever be
 
@@ -85,18 +91,26 @@ And then it ends. The system continues. You carry what you learned, not the scre
 Not every pitch produces the work it was written for.  
 Not every experience needs to stay.  
 **Some only need to appear at the right moment. And then go.**
+</br>
+
+## 
+</br>
 
 **Linkography**
 
 -   [Prada Re-Nylon for SEA BEYOND Experience – Adoratorio® Studio](https://www.prada.com/it/it/womens/womens-collection/the-re-nylon-project/c/10549EU)
 
----
+</br>
+
+## 
+</br>
 
 > <b>This is not a newsletter.</b> </br>
 > <i>Paperwork is where design gets written.</i> </br>
 > <i>Not to explain it, but to keep it alive.</i>
 
-</br></br>
+</br>
+
 Thanks for being here.</br>
 Let’s see where this goes.
 
