@@ -67,7 +67,7 @@ The first time I saw the experience running inside prada.com in test, the offici
 
 Prada ran a teaser for two, three days. A signal. Then a global launch. All markets, social, the full machinery of the brand behind it.
 
-The moment we went live, an email arrived from Prada. The Slack channel lit up: _we’re live_. I opened prada.com on my phone. And there we were. Our work, hosted on our servers, inside their system, across every market in the world.
+The moment we went live, an email arrived from Prada. The Slack channel lit up: _we’re [ live](https://www.prada.com/it/it/womens/womens-collection/the-re-nylon-project/c/10549EU)_. I opened prada.com on my phone. And there we were. Our work, hosted on our servers, inside their system, across every market in the world.
 
 And still. It’s temporary.
 
