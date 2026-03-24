@@ -43,7 +43,7 @@ But the real question was always the same: **what’s the best thing we can actu
 
 That pressure didn’t weaken the work. It stripped it. I keep getting asked how we managed the timeline. The honest answer is: the timeline was possible because of the people. The focus they brought. The decisions they made without waiting to be asked. The things they noticed before they became problems.
 
-Systems help. But systems don’t stay up until midnight because they believe in what they’re building. **That part is human. And it’s the part I’m most grateful for.**
+Systems help. But systems don't care about what they're building. People do. **And it's the part that matters most.**
 
 </br>
 
