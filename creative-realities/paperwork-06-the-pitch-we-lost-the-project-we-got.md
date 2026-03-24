@@ -14,7 +14,7 @@ The fit with the internal team felt real.
 Then we lost. Or rather, we came second. In a pitch, that means the same thing.
 
 Most pitches simply disappear after they are decided. This one didn’t.  
-A few days later, while we were still carrying the weight of all that work, someone we’d never spoken to reached out. A different person from the same group. Someone who had seen our pitch internally. Not to talk about Miu Miu. To ask about something else.
+A few days later, while we were still feeling how close we'd been and at the same time the weight of not making it, someone we hadn't yet spoken to in depth reached out. A different person from the same group. Someone who had seen our pitch internally. Not to talk about Miu Miu. To ask about something else.
 
 An interactive experience for Prada. The Re-Nylon initiative, the partnership with SEA BEYOND and UNESCO. Not a pitch. A direct assignment.
 
