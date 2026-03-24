@@ -37,7 +37,7 @@ Week one was concept only. Explorations, internal discussions, check-ins with th
 
 We painted dozens of watercolour illustrations, seabeds, creatures, underwater landscapes, then placed them inside 3D environments. Tested water effects on the WebGL scenes: density, movement, light. Prada had already created the Re-Nylon patches. Those were our fixed points. Everything else grew from there. Every detail had to be right. Not eventually right, but right now, because there would be no time to fix it later.
 
-The UI for choosing between marine landscapes and sea creatures was one of the most interesting parts. It needed to feel app-like. Tactile, immediate, nothing like website navigation.
+The UI for choosing between marine landscapes and sea creatures needed to feel app-like. Tactile, immediate, nothing like website navigation.
 
 But the real question was always the same: **what’s the best thing we can actually build, at the highest level, in four weeks?** Not only the best idea, but the best idea we could ship. Together. In the time we had.
 
