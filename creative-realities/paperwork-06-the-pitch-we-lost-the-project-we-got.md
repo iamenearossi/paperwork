@@ -35,7 +35,7 @@ Four weeks. Design to development to go-live. A global experience, every market,
 
 Week one was concept only. Explorations, internal discussions, check-ins with the Prada team to lock the direction. By Friday, we needed certainty. Because from Monday, design and development would move in parallel. No handoff. No sequence. Both teams building at the same time, feeding each other while the project took shape around them.
 
-Every second counted. We painted dozens of watercolour illustrations, seabeds, creatures, underwater landscapes, then placed them inside 3D environments. Tested water effects on the WebGL scenes: density, movement, light. Prada had already created the Re-Nylon patches. Those were our fixed points. Everything else grew from there. Every detail had to be right. Not eventually right, but right now, because there would be no time to fix it later.
+We painted dozens of watercolour illustrations, seabeds, creatures, underwater landscapes, then placed them inside 3D environments. Tested water effects on the WebGL scenes: density, movement, light. Prada had already created the Re-Nylon patches. Those were our fixed points. Everything else grew from there. Every detail had to be right. Not eventually right, but right now, because there would be no time to fix it later.
 
 The UI for choosing between marine landscapes and sea creatures was one of the most interesting parts. It needed to feel app-like. Tactile, immediate, nothing like website navigation.
 
