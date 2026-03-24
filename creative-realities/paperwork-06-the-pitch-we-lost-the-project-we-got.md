@@ -28,10 +28,10 @@ We didn’t expect it. What we’d expected, at most, was maybe another pitch so
 
 </br>
 
-## Four weeks
+## Five weeks
 
 Tell the story of Prada Re-Nylon through an interactive digital experience. That was the brief. Follow the campaign, respect the system, but the creative space was ours. We proposed two directions. One was chosen. Then the timeline became real.  
-Four weeks. Design to development to go-live. A global experience, every market, every country.
+Five weeks. Design to development to go-live. A global experience, every market, every country.
 
 Week one was concept only. Explorations, internal discussions, check-ins with the Prada team to lock the direction. By Friday, we needed certainty. Because from Monday, design and development would move in parallel. No handoff. No sequence. Both teams building at the same time, feeding each other while the project took shape around them.
 
@@ -39,7 +39,7 @@ We painted dozens of watercolour illustrations, seabeds, creatures, underwater l
 
 The UI for choosing between marine landscapes and sea creatures needed to feel app-like. Tactile, immediate, nothing like website navigation.
 
-But the real question was always the same: **what’s the best thing we can actually build, at the highest level, in four weeks?** Not only the best idea, but the best idea we could ship. Together. In the time we had.
+But the real question was always the same: **what’s the best thing we can actually build, at the highest level, in five weeks?** Not only the best idea, but the best idea we could ship. Together. In the time we had.
 
 That pressure didn’t weaken the work. It stripped it. I keep getting asked how we managed the timeline. The honest answer is: the timeline was possible because of the people. The focus they brought. The decisions they made without waiting to be asked. The things they noticed before they became problems.
 
